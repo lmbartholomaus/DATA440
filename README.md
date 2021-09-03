@@ -1,1 +1,2 @@
-# DATA444
+# Agent Based Modeling Repository
+# By Lily Bartholomaus
