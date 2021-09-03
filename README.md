@@ -1,2 +1,2 @@
 # Agent Based Modeling Repository
-# By Lily Bartholomaus
+# Lily Bartholomaus
