@@ -1,2 +1,2 @@
-## Agent Based Modeling
-# Lily Bartholomaus
+# Agent Based Modeling
+## Lily Bartholomaus
